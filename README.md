@@ -1,6 +1,8 @@
 # Commodore Game Loader
 A comprehensive GUI application for loading Commodore 64, VIC-20, C16 and Plus/4 games onto original hardware from your PC's sound output, with fast loading, tape control and automatic game info and artwork.
 
+https://github.com/Nyimski/Commodore-Game-Loader/releases/tag/v1.25.3
+
 ## Screenshot
 
 ![CGL](https://nyimski.net/Images/CGL.png)
