@@ -79,6 +79,7 @@ A comprehensive GUI application for loading Commodore 64, VIC-20, C16 and Plus/4
 2. Extract to preferred location
 3. Run `Commodore Game Loader.exe`
 4. Choose your system from the **System** menu and add your games
+5. Optional: download the CGL assets for your system (pictures, game info and manuals) from [nyimski.net](https://nyimski.net/Downloads.html) and extract them into the `Commodore Game Loader` folder
 
 ## Connecting Your Commodore
 The app plays the same sound a cassette makes, so you need a device that feeds audio from the PC's headphone or line output into the cassette port:
