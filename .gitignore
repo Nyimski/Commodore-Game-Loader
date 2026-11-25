@@ -1,0 +1,21 @@
+# Visual Studio and build output
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.pdb
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Things the app makes as it runs (personal, never commit)
+Commodore Game Loader/thegamesdb_key.txt
+Commodore Game Loader/tape_options.txt
+Commodore Game Loader/settings.txt
+Commodore Game Loader/C64/
+Commodore Game Loader/VIC20/
+Commodore Game Loader/C16/
+Commodore Game Loader/ffmpeg.exe
+*.wav
